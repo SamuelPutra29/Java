@@ -11,3 +11,7 @@ Step kedua:
 Pelajar OOP Java: 
     Membuat objek 
     Modifier seperti public private dll 
+
+Step ketiga: 
+Setelah menguasai Java basic dan OOP java: 
+maka kita bisa memulai untuk terlibat dalam project automation
