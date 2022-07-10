@@ -1,0 +1,8 @@
+Step pertama: 
+Pelajari basic java seperti: 
+    Input output
+    Variable 
+    Tipe Data
+    Percabangan
+    Perulangan 
+    Array
