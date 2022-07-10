@@ -6,7 +6,7 @@ Pelajari basic java seperti:
     Percabangan
     Perulangan 
     Array
-
+Mobile Automation 
 Step kedua: 
 Pelajar OOP Java: 
     Membuat objek 
@@ -15,3 +15,6 @@ Pelajar OOP Java:
 Step ketiga: 
 Setelah menguasai Java basic dan OOP java: 
 maka kita bisa memulai untuk terlibat dalam project automation
+
+
+
