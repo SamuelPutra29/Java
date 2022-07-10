@@ -6,3 +6,8 @@ Pelajari basic java seperti:
     Percabangan
     Perulangan 
     Array
+
+Step kedua: 
+Pelajar OOP Java: 
+    Membuat objek 
+    Modifier seperti public private dll 
